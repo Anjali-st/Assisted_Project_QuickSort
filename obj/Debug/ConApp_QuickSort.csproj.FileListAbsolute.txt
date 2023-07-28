@@ -1,0 +1,8 @@
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_QuickSort\bin\Debug\ConApp_QuickSort.exe.config
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_QuickSort\bin\Debug\ConApp_QuickSort.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_QuickSort\bin\Debug\ConApp_QuickSort.pdb
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_QuickSort\obj\Debug\ConApp_QuickSort.csproj.AssemblyReference.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_QuickSort\obj\Debug\ConApp_QuickSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_QuickSort\obj\Debug\ConApp_QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_QuickSort\obj\Debug\ConApp_QuickSort.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_QuickSort\obj\Debug\ConApp_QuickSort.pdb
